@@ -5,8 +5,8 @@
 | Serial No. | Project Title                             | One-Line Description                               | Status |
 | ---------- | ----------------------------------------- | -------------------------------------------------- | ------ |
 | 1          | Password Strength Checker                 | Check the strength of user passwords.              | ✅     |
-| 2          | Port Scanner                              | Scan open ports on a network.                      |        |
-| 3          | URL Scanner                               | Check URLs for malicious content.                  |        |
+| 2          | Port Scanner                              | Scan open ports on a network.                      | 🛠️     |
+| 3          | URL Scanner                               | Check URLs for malicious content.                  | 🛠️     |
 | 4          | File Encryption                           | Encrypt and decrypt files.                         |        |
 | 5          | Brute Force Attack Simulator              | Simulate brute force attacks.                      |        |
 | 6          | Network Sniffer                           | Capture and analyze network traffic.               |        |
