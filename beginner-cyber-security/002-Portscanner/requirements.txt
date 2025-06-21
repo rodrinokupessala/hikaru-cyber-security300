@@ -1,0 +1,9 @@
+# Only if user chooses OS Detection
+# Windows: install Nmap and add to PATH
+# Linux/macOS: install via package manager
+sudo apt install nmap         # Debian/Kali/Ubuntu
+brew install nmap             # macOS
+pkg install nmap              # Termux
+
+
+pip install colorama
