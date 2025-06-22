@@ -2,108 +2,30 @@
 
 ## 🔐 Cybersecurity Project List
 
-| Serial No. | Project Title                                    | One-Line Description                                      | Status |
-| ---------- | ------------------------------------------------ | --------------------------------------------------------- | ------ |
-| 1          | Password Strength Checker                        | Check the strength of user passwords.                     | ✅     |
-| 2          | Port Scanner                                     | Scan open ports on a network.                             | ✅     |
-| 3          | URL Scanner                                      | Check URLs for malicious content.                         | 🛠️     |
-| 4          | File Encryption                                  | Encrypt and decrypt files.                                | 🛠️     |
-| 5          | Brute Force Attack Simulator                     | Simulate brute force attacks.                             | 🛠️     |
-| 6          | Network Sniffer                                  | Capture and analyze network traffic.                      |        |
-| 7          | Keylogger                                        | Log keystrokes on a computer.                             |        |
-| 8          | Firewall Rule Analyzer                           | Analyze firewall rules for vulnerabilities.               |        |
-| 9          | Virus Scanner                                    | Scan files for viruses and malware.                       |        |
-| 10         | Cryptocurrency Tracker                           | Track cryptocurrency prices and trends.                   |        |
-| 11         | Email Phishing Detector                          | Detect phishing emails.                                   |        |
-| 12         | Two-Factor Authentication                        | Implement 2FA for a web application.                      |        |
-| 13         | Network Intrusion Detection System (NIDS)        | Detect and alert on network intrusions.                   |        |
-| 14         | Secure File Transfer                             | Transfer files securely over a network.                   |        |
-| 15         | Password Manager                                 | Store and manage passwords securely.                      |        |
-| 16         | Digital Signature Generator                      | Generate and verify digital signatures.                   |        |
-| 17         | Malware Analysis Sandbox                         | Create a sandbox to analyze malware samples.              |        |
-| 18         | VPN (Virtual Private Network)                    | Build a simple VPN for secure connections.                |        |
-| 19         | Secure Chat Application                          | Implement end-to-end encryption for chat messages.        |        |
-| 20         | File Hasher                                      | Calculate and verify file hashes.                         |        |
-| 21         | Network Traffic Analyzer                         | Analyze and visualize network traffic data.               |        |
-| 22         | Secure Login System                              | Develop a secure login system for web apps.               |        |
-| 23         | Data Leakage Prevention                          | Prevent sensitive data leaks in an organization.          |        |
-| 24         | Wireless Network Scanner                         | Scan and analyze nearby Wi-Fi networks.                   |        |
-| 25         | Malicious Website Blocker                        | Block access to malicious websites.                       |        |
-| 26         | Secure File Deletion                             | Permanently delete files securely.                        |        |
-| 27         | Threat Intelligence Feed                         | Collect and analyze threat intelligence data.             |        |
-| 28         | Password Cracker                                 | Implement a basic password cracker.                       |        |
-| 29         | Web Application Firewall                         | Protect web applications from attacks.                    |        |
-| 30         | DNS Spoofing Detector                            | Detect DNS spoofing attacks.                              |        |
-| 31         | Secure Document Vault                            | Store and access sensitive documents securely.            |        |
-| 32         | Network Packet Sniffer                           | Sniff and analyze network packets.                        |        |
-| 33         | File Integrity Checker                           | Check file integrity using cryptographic hashes.          |        |
-| 34         | Secure Cloud Storage                             | Implement secure cloud storage with encryption.           |        |
-| 35         | IP Address Geolocation                           | Determine the geographical location of an IP.             |        |
-| 36         | CAPTCHA Solver                                   | Create a CAPTCHA-solving tool.                            |        |
-| 37         | Security Information and Event Management (SIEM) | Develop a basic SIEM system for log analysis.             |        |
-| 38         | Vulnerability Scanner                            | Scan a network or web app for vulnerabilities.            |        |
-| 39         | SSL Certificate Checker                          | Check the validity of SSL certificates.                   |        |
-| 40         | Secure File Sharing                              | Share files securely with encryption.                     |        |
-| 41         | Rootkit Detector                                 | Detect and remove rootkits on a system.                   |        |
-| 42         | Secure Email Communication                       | Encrypt and decrypt emails for secure communication.      |        |
-| 43         | Anonymous Browsing                               | Create a tool for anonymous web browsing.                 |        |
-| 44         | Password Reset System                            | Implement a secure password reset process.                |        |
-| 45         | Network Traffic Monitor                          | Monitor and log network traffic in real-time.             |        |
-| 46         | Malware Signature Generator                      | Generate signatures for known malware.                    |        |
-| 47         | Secure File Backup                               | Backup files securely with encryption.                    |        |
-| 48         | SSL/TLS Analyzer                                 | Analyze SSL/TLS connections for vulnerabilities.          |        |
-| 49         | Social Engineering Toolkit                       | Develop tools for social engineering attacks.             |        |
-| 50         | Secure Document Sharing                          | Share and collaborate on documents securely.              |        |
-| 51         | Network Anomaly Detection                        | Detect anomalies in network traffic patterns.             |        |
-| 52         | USB Drive Security                               | Implement security measures for USB drives.               |        |
-| 53         | Log File Analysis                                | Analyze log files for security incidents.                 |        |
-| 54         | Secure Instant Messaging                         | Create a secure instant messaging app.                    |        |
-| 55         | WiFi Password Cracker                            | Crack WiFi passwords (for educational purposes).          |        |
-| 56         | Password Policy Enforcer                         | Enforce strong password policies in an organization.      |        |
-| 57         | File Permission Analyzer                         | Check and manage file permissions securely.               |        |
-| 58         | Data Encryption on Cloud                         | Encrypt data before storing it in the cloud.              |        |
-| 59         | Malware Behavior Analysis                        | Analyze the behavior of malware samples.                  |        |
-| 60         | Secure Code Review                               | Review code for security vulnerabilities.                 |        |
-| 61         | Incident Response Plan                           | Create an incident response plan for cybersecurity.       |        |
-| 62         | Firewall Log Analyzer                            | Analyze firewall logs for suspicious activity.            |        |
-| 63         | Secure Voice Communication                       | Implement secure voice calls over the internet.           |        |
-| 64         | USB Device Whitelisting                          | Allow only trusted USB devices to connect.                |        |
-| 65         | Threat Hunting Tool                              | Develop a tool for proactive threat hunting.              |        |
-| 66         | Secure Video Conferencing                        | Host secure video conferences with encryption.            |        |
-| 67         | Malware Cleanup Tool                             | Create a tool to remove malware from infected systems.    |        |
-| 68         | Secure Social Media Posting                      | Post on social media securely without privacy risks.      |        |
-| 69         | Ransomware Simulator                             | Simulate ransomware attacks for testing defenses.         |        |
-| 70         | VPN Traffic Analysis                             | Analyze VPN traffic for security purposes.                |        |
-| 71         | Secure Data Erasure                              | Securely erase data from storage devices.                 |        |
-| 72         | Phishing Campaign Simulator                      | Simulate phishing campaigns for employee training.        |        |
-| 73         | Secure IoT Device Communication                  | Implement secure communication for IoT devices.           |        |
-| 74         | Password Hash Cracker                            | Crack hashed passwords (for educational purposes).        |        |
-| 75         | Secure File Versioning                           | Keep versions of files with encryption and integrity.     |        |
-| 76         | Web Application Penetration Testing              | Perform penetration testing on web apps.                  |        |
-| 77         | Secure Mobile App Development                    | Develop mobile apps with strong security measures.        |        |
-| 78         | DNSSEC Implementation                            | Implement DNS Security Extensions for DNS security.       |        |
-| 79         | Secure Video Streaming                           | Stream videos securely over the internet.                 |        |
-| 80         | Network Access Control                           | Control and monitor access to a network.                  |        |
-| 81         | Secure IoT Firmware Updates                      | Ensure secure firmware updates for IoT devices.           |        |
-| 82         | Malware Traffic Analysis                         | Analyze network traffic for signs of malware.             |        |
-| 83         | Secure Data Backup and Restore                   | Implement secure data backup and restoration processes.   |        |
-| 84         | USB Drive Encryption                             | Encrypt data on USB drives for security.                  |        |
-| 85         | Threat Intelligence Platform                     | Build a platform to collect and analyze threat data.      |        |
-| 86         | Secure File Transfer Protocol (SFTP)             | Implement secure file transfer using SFTP.                |        |
-| 87         | Secure Remote Desktop                            | Access a remote desktop securely.                         |        |
-| 88         | Encrypted Messaging App                          | Create an end-to-end encrypted messaging app.             |        |
-| 89         | IoT Device Vulnerability Scanner                 | Scan IoT devices for vulnerabilities.                     |        |
-| 90         | Secure Data Sharing Platform                     | Share sensitive data securely with controlled access.     |        |
-| 91         | Network Segmentation                             | Segment a network for improved security.                  |        |
-| 92         | Secure Data Archiving                            | Archive and retrieve data securely.                       |        |
-| 93         | Malware Detection API                            | Develop an API for detecting malware in files.            |        |
-| 94         | Secure Email Gateway                             | Implement a gateway to filter and secure email traffic.   |        |
-| 95         | VPN Server Configuration                         | Configure and manage a VPN server for secure access.      |        |
-| 96         | Secure IoT Data Storage                          | Store IoT data securely with encryption.                  |        |
-| 97         | Passwordless Authentication                      | Implement passwordless login methods.                     |        |
-| 98         | Secure Video Surveillance                        | Set up secure video surveillance systems.                 |        |
-| 99         | Threat Feed Integration                          | Integrate threat intelligence feeds for real-time alerts. |        |
-| 100        | Secure Backup Verification                       | Verify the integrity of backup data for security.         |        |
+| Serial No. | Project Title                             | One-Line Description                               | Status |
+| ---------- | ----------------------------------------- | -------------------------------------------------- | ------ |
+| 1          | Password Strength Checker                 | Check the strength of user passwords.              | ✅     |
+| 2          | Port Scanner                              | Scan open ports on a network.                      | 🛠️     |
+| 3          | URL Scanner                               | Check URLs for malicious content.                  | 🛠️     |
+| 4          | File Encryption                           | Encrypt and decrypt files.                         |        |
+| 5          | Brute Force Attack Simulator              | Simulate brute force attacks.                      |        |
+| 6          | Network Sniffer                           | Capture and analyze network traffic.               |        |
+| 7          | Keylogger                                 | Log keystrokes on a computer.                      |        |
+| 8          | Firewall Rule Analyzer                    | Analyze firewall rules for vulnerabilities.        |        |
+| 9          | Virus Scanner                             | Scan files for viruses and malware.                |        |
+| 10         | Cryptocurrency Tracker                    | Track cryptocurrency prices and trends.            |        |
+| 11         | Email Phishing Detector                   | Detect phishing emails.                            |        |
+| 12         | Two-Factor Authentication                 | Implement 2FA for a web application.               |        |
+| 13         | Network Intrusion Detection System (NIDS) | Detect and alert on network intrusions.            |        |
+| 14         | Secure File Transfer                      | Transfer files securely over a network.            |        |
+| 15         | Password Manager                          | Store and manage passwords securely.               |        |
+| 16         | Digital Signature Generator               | Generate and verify digital signatures.            |        |
+| 17         | Malware Analysis Sandbox                  | Create a sandbox to analyze malware samples.       |        |
+| 18         | VPN (Virtual Private Network)             | Build a simple VPN for secure connections.         |        |
+| 19         | Secure Chat Application                   | Implement end-to-end encryption for chat messages. |        |
+| 20         | File Hasher                               | Calculate and verify file hashes.                  |        |
+| ...        | ...                                       | ...                                                | ...    |
+| 100        | Secure Backup Verification                | Verify the integrity of backup data for security.  |        |
 
 ## 100 intermediate-level Python projects for Cybersecurity
 
