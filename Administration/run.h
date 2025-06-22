@@ -1,0 +1,1 @@
+udo -E ~/venv/bin/python monitor.py  

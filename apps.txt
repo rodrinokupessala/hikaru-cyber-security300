@@ -1,0 +1,21 @@
+https://www.proxifier.com/
+
+ipscan-win
+Advaced Port Scan
+pscan24
+zenmap
+Basic check targets
+https://www.super-ping.com/
+https://ping.eu/
+
+Banner
+idserver
+- Vunner scanner
+acunetix web vulnerability scanner 
+
+- Enumeration
+SumerScan
+- System Hacking
+PwDump3
+LCP
+
