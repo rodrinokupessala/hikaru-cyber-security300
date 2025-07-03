@@ -1,0 +1,6 @@
+# SignatureName :: RegexPattern
+Encoded PowerShell :: powershell\s*-enc\s*[A-Za-z0-9+/=]+
+Base64 Eval Injection :: eval\((base64|b64)[\s\.\w]*decode
+Use of rundll32 :: rundll32\.exe\s+[^\s]+,\s*[^\s]+
+Invoke-WebRequest Abuse :: powershell\s+-Command\s+Invoke-WebRequest
+Encoded PowerShell :: powershell\s*-enc\s*[A-Za-z0-9+/=]+

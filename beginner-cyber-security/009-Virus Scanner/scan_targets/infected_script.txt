@@ -1,0 +1,8 @@
+# infected_script.txt
+<script>
+    // Código perigoso simulado
+    var payload = "eval(base64_decode('aW5mZWN0ZWQgc2NyaXB0'))";
+    eval(payload);
+</script>
+
+Executando powershell -enc d2hvYW1p

@@ -1,0 +1,3 @@
+eval(base64_decode
+rundll32.exe
+powershell -enc
